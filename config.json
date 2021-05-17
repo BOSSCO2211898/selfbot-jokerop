@@ -1,0 +1,11 @@
+{
+    "token": "ENTER YOUR TOKEN HERE", 
+    "password": "ENTER YOUR PASSWORD HERE", 
+    "prefix": "x",
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+
+    "stream_url": "https://www.youtube.com/channel/UCPMGi1GRmPDWeRKVAsd0ipg",
+    "tts_language": "en"
+}
